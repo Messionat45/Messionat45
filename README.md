@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Madhukar 
 ==================================================================================================================================
 
-//IT GEC'25
+<!--IT GEC'25-->
 ---------
 
 Learning And Leveraging my Knowledge in Software Engineering and Development
