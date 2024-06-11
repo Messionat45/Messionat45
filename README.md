@@ -66,7 +66,7 @@ src="https://img.shields.io/twitter/follow/tejas__45?logo=twitter&style=for-the-
 </a>
 </p>
 
-### Badges
+<!--### Badges-->
 
 <b>My GitHub Stats</b>
 
