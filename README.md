@@ -23,7 +23,7 @@ Learning And Leveraging my Knowledge in Software Engineering and Development
 
 * 🌍  I'm based in Goa
 * ✉️  You can contact me at [madhukarbondre127@gmail.com](mailto:madhukarbondre127@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Web Development
 * ⚡  Follow me, and together, let's guard Gotham City!
 
 <a href="https://www.x.com/tejas__45" target="_blank" rel="noreferrer"><img
