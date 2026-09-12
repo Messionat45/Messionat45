@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Madhukar 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tejas 
 ==================================================================================================================================
 
 <!--IT GEC'25-->
@@ -21,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Learning And Leveraging my Knowledge in Software Engineering and Development
 
-* 🌍  I'm based in Goa
+<!--* 🌍  I'm based in Goa-->
 * ✉️  You can contact me at [madhukarbondre127@gmail.com](mailto:madhukarbondre127@gmail.com)
 * 🧠  I'm learning Web Development
 * ⚡  Follow me 👉 <a href="https://www.x.com/tejas__45" target="_blank" rel="noreferrer"><img
