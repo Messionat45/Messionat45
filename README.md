@@ -25,12 +25,12 @@ Learning And Leveraging my Knowledge in Software Engineering and Development
 * ✉️  You can contact me at [madhukarbondre127@gmail.com](mailto:madhukarbondre127@gmail.com)
 <!--* 🧠  I'm learning Web Development-->
 * ⚡  Follow me 👉 <a href="https://www.x.com/tejas__45" target="_blank" rel="noreferrer">
+</a>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="16" height="16" />
 </picture>
-</a>
 <a href="https://www.x.com/tejas__45" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tejas__45?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
